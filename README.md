@@ -1,3 +1,3 @@
 # bills-api
 
-API Rest using Hapi.js, Mongoose and Express.
+API Rest example using Hapi.js, Mongoose and Express.
